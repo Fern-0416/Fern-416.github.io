@@ -37,8 +37,3 @@ header {
     text-align: center;
  }
 
- #grad {
-    height: 200px;
-    background-color: black;
-    background-image: linear-gradient(to bottom right, green, purple);
- }
