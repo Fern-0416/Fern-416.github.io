@@ -36,6 +36,7 @@ header {
  .profile h1 {
     text-align: center;
  }
+ 
  #grad {
-    background-image: linear-gradient(green, purple);
+    background-image: linear-gradient(to bottom right, green, purple);
  }
