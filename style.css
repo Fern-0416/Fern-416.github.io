@@ -1,8 +1,8 @@
 /*header style*/
 header {
-    text-align: center; 
+    text-align: right; 
     padding: 40px;
-    size: 5cm;
+    size: 200px;
  }
  /*navigation menu style*/
  nav {
@@ -36,22 +36,3 @@ header {
  .profile h1 {
     text-align: center;
  }
-
- .Gradient
- {
-     height:200px;
-      background-image: linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-     background-image: -o-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-     background-image: -moz-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-     background-image: -webkit-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-     background-image: -ms-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
- 
-     background-image: -webkit-gradient(
-         linear,
-         left bottom,
-         left top,
-         color-stop(0.25, rgb(113,61,62)),
-         color-stop(0.63, rgb(147,92,93)),
-         color-stop(0.82, rgb(177,120,121))
-     );   
- }​
